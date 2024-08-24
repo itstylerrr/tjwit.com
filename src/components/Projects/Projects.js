@@ -57,6 +57,8 @@ import prioryvmicds6 from "../../Assets/Photos/4824.jpg";
 import fd2 from "../../Assets/Photos/42624.jpg";
 import prioryvluno7 from "../../Assets/Photos/41024.jpg";
 import car1 from "../../Assets/Photos/52324.jpg";
+import fpractice1 from "../../Assets/Photos/82024.jpg";
+import soccermediaday from "../../Assets/Photos/82324.jpg";
 
 function Projects() {
   return (
@@ -77,6 +79,24 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={fpractice1}
+              isBlog={false}
+              title="Priory Soccer Media Day 8/23/24"
+              description="| Soccer media day!  |"
+              ghLink="https://adobe.ly/3T3CBPt"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={fpractice1}
+              isBlog={false}
+              title="Priory Football Practice 8/20/24"
+              description="| Just a few random pictures I took after soccer practice.  |"
+              ghLink="https://adobe.ly/3Xlj288"
             />
           </Col>
           <Col md={4} className="project-card">
