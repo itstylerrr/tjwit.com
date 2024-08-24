@@ -83,7 +83,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={fpractice1}
+              imgPath={soccermediaday}
               isBlog={false}
               title="Priory Soccer Media Day 8/23/24"
               description="| Soccer media day!  |"
