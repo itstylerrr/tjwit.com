@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d816e7a1.css",
-    "main.js": "/static/js/main.eb5d1ad4.js",
+    "main.js": "/static/js/main.cdd312fc.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/12123.jpg": "/static/media/12123.643fd691934e9bcc9d73.jpg",
@@ -49,9 +49,11 @@
     "static/media/122223.jpg": "/static/media/122223.e12d6213e5864796fedc.jpg",
     "static/media/52324.jpg": "/static/media/52324.261e37dc94140aca9910.jpg",
     "static/media/11824.jpg": "/static/media/11824.2c880eea456f9db511f5.jpg",
+    "static/media/83124.jpg": "/static/media/83124.579c507a84f720d853b3.jpg",
     "static/media/12024.jpg": "/static/media/12024.1f1d1036d4eacef5e36b.jpg",
     "static/media/home-bg.jpg": "/static/media/home-bg.8453e6c31ea6ae239cc3.jpg",
     "static/media/090123.jpg": "/static/media/090123.e610e9d50b83f90bd24f.jpg",
+    "static/media/about.png": "/static/media/about.271fadbc64f2fec2ca10.png",
     "static/media/avatar.svg": "/static/media/avatar.8133681638e5a25ad90ab46e56cc6d86.svg",
     "static/media/12624.jpg": "/static/media/12624.2bfc26aacd917721b0e1.jpg",
     "static/media/12824.jpg": "/static/media/12824.873e151fe59bbf65f59b.jpg",
@@ -59,22 +61,21 @@
     "static/media/82324.jpg": "/static/media/82324.3764d26342d5c516e564.jpg",
     "static/media/11124.jpg": "/static/media/11124.73961fb5c6275dadddb4.jpg",
     "static/media/122623.jpg": "/static/media/122623.ed50758179f268ddbf7e.jpg",
-    "static/media/about.png": "/static/media/about.f147e61972f83f203bf5.png",
     "static/media/11924.jpg": "/static/media/11924.86e32250f07b36fd0831.jpg",
     "static/media/82024.jpg": "/static/media/82024.aef0a1c2cf6c511c827d.jpg",
     "static/media/3723.jpg": "/static/media/3723.cadf2d053b6d259ba2e4.jpg",
-    "static/media/home-main.svg": "/static/media/home-main.25f4bb96bf43bfe050c09ee63c095d4f.svg",
+    "static/media/home-main.svg": "/static/media/home-main.cecda1f4ef71b60ae2fbee3879376a32.svg",
     "static/media/logo.png": "/static/media/logo.f878e1fcd33f2345ab94.png",
     "static/media/tjwlogo.png": "/static/media/tjwlogo.f878e1fcd33f2345ab94.png",
     "index.html": "/index.html",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "main.d816e7a1.css.map": "/static/css/main.d816e7a1.css.map",
-    "main.eb5d1ad4.js.map": "/static/js/main.eb5d1ad4.js.map",
+    "main.cdd312fc.js.map": "/static/js/main.cdd312fc.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d816e7a1.css",
-    "static/js/main.eb5d1ad4.js"
+    "static/js/main.cdd312fc.js"
   ]
 }
