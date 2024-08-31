@@ -59,6 +59,7 @@ import prioryvluno7 from "../../Assets/Photos/41024.jpg";
 import car1 from "../../Assets/Photos/52324.jpg";
 import fpractice1 from "../../Assets/Photos/82024.jpg";
 import soccermediaday from "../../Assets/Photos/82324.jpg";
+import priroyvjefferson from "../../Assets/Photos/83124.jpg";
 
 function Projects() {
   return (
@@ -79,6 +80,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={priroyvjefferson}
+              isBlog={false}
+              title="Priory vs. Jefferson 8/31/24"
+              description="| Spring sports have started!  |"
+              ghLink="https://adobe.ly/4cPkZOk"
             />
           </Col>
           <Col md={4} className="project-card">

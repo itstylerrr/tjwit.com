@@ -12,7 +12,7 @@ function AboutCard() {
             To those who don't know me, I am{" "}
             <span className="purple">Tyler Witkowski </span>
             from <span className="purple"> Saint Louis, Missouri.</span>
-            <br />I am a Junior at Saint Louis Priory school.
+            <br />I am a Senior at Saint Louis Priory school.
             <br />
             <br />
             Apart from school, some other activities that I love to do!
@@ -37,9 +37,9 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "If you are dead, simply start living."{" "}
+            <i>The grace of our Lord Jesus Christ be with you all. Amen</i>{" "}
           </p>
-          <footer className="blockquote-footer">Sun Tzu, The Art of War</footer>
+          <footer className="blockquote-footer">Revelation 22:21</footer>
         </blockquote>
       </Card.Body>
     </Card>
