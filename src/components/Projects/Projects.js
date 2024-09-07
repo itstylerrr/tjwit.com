@@ -60,6 +60,8 @@ import car1 from "../../Assets/Photos/52324.jpg";
 import fpractice1 from "../../Assets/Photos/82024.jpg";
 import soccermediaday from "../../Assets/Photos/82324.jpg";
 import priroyvjefferson from "../../Assets/Photos/83124.jpg";
+import prioryvwhitfield from "../../Assets/Photos/9624.jpg";
+import prioryvjbs3 from "../../Assets/Photos/9724.jpg";
 
 function Projects() {
   return (
@@ -84,10 +86,28 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={prioryvwhitfield}
+              isBlog={false}
+              title="Priory vs. John Burroughs 9/7/24"
+              description="| Congrats to Max Nadaud on photographing his first Varsity soccer game, he took 1,056 photos!  |"
+              ghLink="https://adobe.ly/3zdvsWf"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvwhitfield}
+              isBlog={false}
+              title="Priory JV vs. Whitfield 9/6/24"
+              description="| First JV pictures of the year! (Additional Photographers: Jack Mantovani)  |"
+              ghLink="https://adobe.ly/3z0mifN"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={priroyvjefferson}
               isBlog={false}
               title="Priory vs. Jefferson 8/31/24"
-              description="| Spring sports have started!  |"
+              description="| Fall sports have started!  |"
               ghLink="https://adobe.ly/4cPkZOk"
             />
           </Col>
