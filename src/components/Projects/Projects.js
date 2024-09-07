@@ -86,7 +86,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={prioryvwhitfield}
+              imgPath={prioryvjbs3}
               isBlog={false}
               title="Priory vs. John Burroughs 9/7/24"
               description="| Congrats to Max Nadaud on photographing his first Varsity soccer game, he took 1,056 photos!  |"
