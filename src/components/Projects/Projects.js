@@ -62,6 +62,8 @@ import soccermediaday from "../../Assets/Photos/82324.jpg";
 import priroyvjefferson from "../../Assets/Photos/83124.jpg";
 import prioryvwhitfield from "../../Assets/Photos/9624.jpg";
 import prioryvjbs3 from "../../Assets/Photos/9724.jpg";
+import prioryvluso2 from "../../Assets/Photos/91424.jpg";
+import prioryvwestminster2 from "../../Assets/Photos/91724.jpg";
 
 function Projects() {
   return (
@@ -82,6 +84,24 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvwestminster2}
+              isBlog={false}
+              title="Priory vs. Westmister 9/17/24"
+              description="| Special thanks to the following photographers for todays game: Max Naduad, Freddy Gaertner, Barret Beimdiek.  |"
+              ghLink="https://adobe.ly/4d6o24R"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvluso2}
+              isBlog={false}
+              title="Priory vs. Lutheran South 9/14/24"
+              description="| Congrats to the Priory Ravens on defeating LUSO 42-13!  |"
+              ghLink="https://adobe.ly/3MNasIS"
             />
           </Col>
           <Col md={4} className="project-card">
