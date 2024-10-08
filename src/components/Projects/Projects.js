@@ -91,9 +91,10 @@ function Projects() {
             <ProjectCard
               imgPath={prioryvbayless2}
               isBlog={false}
-              title="Priory vs. Westmister 10/07/24"
+              title="Priory vs. Bayless 10/07/24"
               description="| While I'm injured I better get some soccer pictures of my own! Good 3-0 win from the Ravens. Goals: Mick M. Sean. K Drake P.  |"
               ghLink="https://adobe.ly/3NfeASi"
+              demoLink="https://adobe.ly/4dBQ88j"
             />
           </Col>
           <Col md={4} className="project-card">
