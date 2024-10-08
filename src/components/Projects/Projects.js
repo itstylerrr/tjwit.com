@@ -64,6 +64,7 @@ import prioryvwhitfield from "../../Assets/Photos/9624.jpg";
 import prioryvjbs3 from "../../Assets/Photos/9724.jpg";
 import prioryvluso2 from "../../Assets/Photos/91424.jpg";
 import prioryvwestminster2 from "../../Assets/Photos/91724.jpg";
+import prioryvbayless2 from "../../Assets/Photos/10724.jpg"
 
 function Projects() {
   return (
@@ -84,6 +85,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvbayless2}
+              isBlog={false}
+              title="Priory vs. Westmister 10/07/24"
+              description="| While I'm injured I better get some soccer pictures of my own! Good 3-0 win from the Ravens. Goals: Mick M. Sean. K Drake P.  |"
+              ghLink="https://adobe.ly/3NfeASi"
             />
           </Col>
           <Col md={4} className="project-card">
