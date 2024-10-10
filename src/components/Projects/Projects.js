@@ -64,7 +64,8 @@ import prioryvwhitfield from "../../Assets/Photos/9624.jpg";
 import prioryvjbs3 from "../../Assets/Photos/9724.jpg";
 import prioryvluso2 from "../../Assets/Photos/91424.jpg";
 import prioryvwestminster2 from "../../Assets/Photos/91724.jpg";
-import prioryvbayless2 from "../../Assets/Photos/10724.jpg"
+import prioryvbayless2 from "../../Assets/Photos/10724.jpg";
+import salutetoservice from "../../Assets/Photos/10524.jpg";
 
 function Projects() {
   return (
@@ -95,6 +96,15 @@ function Projects() {
               description="| While I'm injured I better get some soccer pictures of my own! Good 3-0 win from the Ravens. Goals: Mick M. Sean. K Drake P.  |"
               ghLink="https://adobe.ly/3NfeASi"
               demoLink="https://adobe.ly/4dBQ88j"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={salutetoservice}
+              isBlog={false}
+              title="Priory Salute to Service Football Game 10/05/24"
+              description="| A wonderful day to honor our troops and first responders at the First Annual Salute to Service Football Game!  |"
+              ghLink="https://adobe.ly/3zIr6qv"
             />
           </Col>
           <Col md={4} className="project-card">
