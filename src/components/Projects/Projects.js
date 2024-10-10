@@ -66,6 +66,7 @@ import prioryvluso2 from "../../Assets/Photos/91424.jpg";
 import prioryvwestminster2 from "../../Assets/Photos/91724.jpg";
 import prioryvbayless2 from "../../Assets/Photos/10724.jpg";
 import salutetoservice from "../../Assets/Photos/10524.jpg";
+import hockeymediapractice from "../../Assets/Photos/92924.jpg";
 
 function Projects() {
   return (
@@ -105,6 +106,15 @@ function Projects() {
               title="Priory Salute to Service Football Game 10/05/24"
               description="| A wonderful day to honor our troops and first responders at the First Annual Salute to Service Football Game!  |"
               ghLink="https://adobe.ly/3zIr6qv"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={hockeymediapractice}
+              isBlog={false}
+              title="Priory Hockey Media + Practice 9/29/24"
+              description="| Short 15 minute media pictures and a few practice pictures.  |"
+              ghLink="https://adobe.ly/4eE60Zi"
             />
           </Col>
           <Col md={4} className="project-card">
