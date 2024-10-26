@@ -67,6 +67,7 @@ import prioryvwestminster2 from "../../Assets/Photos/91724.jpg";
 import prioryvbayless2 from "../../Assets/Photos/10724.jpg";
 import salutetoservice from "../../Assets/Photos/10524.jpg";
 import hockeymediapractice from "../../Assets/Photos/92924.jpg";
+import prioryvmicds7 from "../../Assets/Photos/91924.jpg";
 
 function Projects() {
   return (
@@ -115,6 +116,15 @@ function Projects() {
               title="Priory Hockey Media + Practice 9/29/24"
               description="| Short 15 minute media pictures and a few practice pictures.  |"
               ghLink="https://adobe.ly/4eE60Zi"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvmicds7}
+              isBlog={false}
+              title="Priory vs. MICDS 9/19/24"
+              description="| Priory: 1 - MICDS: 0 /// Goal: Jake McAtee  |"
+              ghLink="https://adobe.ly/4flnPMU"
             />
           </Col>
           <Col md={4} className="project-card">
