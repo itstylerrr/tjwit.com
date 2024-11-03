@@ -70,6 +70,7 @@ import hockeymediapractice from "../../Assets/Photos/92924.jpg";
 import prioryvmicds7 from "../../Assets/Photos/91924.jpg";
 import prioryvwestminster3 from "../../Assets/Photos/92824.jpg";
 import hocofootball from "../../Assets/Photos/101924.jpg";
+import prioryvcnd from "../../Assets/Photos/101924_.jpg";
 
 function Projects() {
   return (
@@ -99,6 +100,15 @@ function Projects() {
               title="Priory Homecoming Football Game 10/19/24"
               description="| Wish I could've been at the game for longer, but congrats to the Ravens on a win!  |"
               ghLink="https://adobe.ly/4flscrm"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvcnd}
+              isBlog={false}
+              title="Priory @ Notre Dame (Cape) 10/19/24"
+              description="| Good win against a good team for our annual trip.  |"
+              ghLink="https://adobe.ly/3UwN4Uv"
             />
           </Col>
           <Col md={4} className="project-card">
