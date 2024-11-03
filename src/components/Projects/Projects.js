@@ -125,7 +125,7 @@ function Projects() {
             <ProjectCard
               imgPath={prioryvbayless2}
               isBlog={false}
-              title="Priory vs. Bayless 10/07/24"
+              title="Priory @ Bayless 10/07/24"
               description="| While I'm injured I better get some soccer pictures of my own! Good 3-0 win from the Ravens. Goals: Mick M. Sean. K Drake P.  |"
               ghLink="https://adobe.ly/3NfeASi"
               demoLink="https://adobe.ly/4dBQ88j"
@@ -162,7 +162,7 @@ function Projects() {
             <ProjectCard
               imgPath={prioryvmicds7}
               isBlog={false}
-              title="Priory vs. MICDS 9/19/24"
+              title="Priory @ MICDS 9/19/24"
               description="| Priory: 1 - MICDS: 0 /// Goal: Jake McAtee  |"
               ghLink="https://adobe.ly/4flnPMU"
             />
@@ -198,7 +198,7 @@ function Projects() {
             <ProjectCard
               imgPath={prioryvwhitfield}
               isBlog={false}
-              title="Priory JV vs. Whitfield 9/6/24"
+              title="Priory JV @ Whitfield 9/6/24"
               description="| First JV pictures of the year! (Additional Photographers: Jack Mantovani)  |"
               ghLink="https://adobe.ly/3z0mifN"
             />
