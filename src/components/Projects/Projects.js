@@ -75,6 +75,7 @@ import prioryvprin from "../../Assets/Photos/102924.jpg";
 import prioryvjefferson2 from "../../Assets/Photos/11124-2.jpg";
 import prioryvwebster2 from "../../Assets/Photos/11124-3.jpg";
 import prioryvnorthwest2 from "../../Assets/Photos/11124-1.jpg"
+import prioryissl from "../../Assets/Photos/10824.jpg";
 
 function Projects() {
   return (
@@ -158,6 +159,15 @@ function Projects() {
               title="Priory @ Notre Dame (Cape) 10/19/24"
               description="| Good win against a good team for our annual trip.  |"
               ghLink="https://adobe.ly/3UwN4Uv"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryissl}
+              isBlog={false}
+              title="ISSL Night Hosted @ Priory 10/08/24"
+              description="| Saint Louis Priory School hosted the ISSL night.  |"
+              ghLink="https://lightroom.adobe.com/shares/f458807f2e6541478fa00160785eaa33"
             />
           </Col>
           <Col md={4} className="project-card">
