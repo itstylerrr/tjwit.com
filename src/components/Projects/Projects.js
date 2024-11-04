@@ -76,6 +76,7 @@ import prioryvjefferson2 from "../../Assets/Photos/11124-2.jpg";
 import prioryvwebster2 from "../../Assets/Photos/11124-3.jpg";
 import prioryvnorthwest2 from "../../Assets/Photos/11124-1.jpg"
 import prioryissl from "../../Assets/Photos/10824.jpg";
+import cbcvsstmarys from "../../Assets/Photos/102524.jpg";
 
 function Projects() {
   return (
@@ -141,6 +142,15 @@ function Projects() {
               title="Priory @ Principia 10/29/24"
               description="| Last regular season soccer game!  |"
               ghLink="https://adobe.ly/3Aroaic"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={cbcvsstmarys}
+              isBlog={false}
+              title="CBC vs. St. Mary's 10/25/24"
+              description="| First football pictures for CBC.  |"
+              ghLink="https://adobe.ly/4fnirZO"
             />
           </Col>
           <Col md={4} className="project-card">
