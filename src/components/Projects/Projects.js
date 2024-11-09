@@ -78,6 +78,7 @@ import prioryvnorthwest2 from "../../Assets/Photos/11124-1.jpg"
 import prioryissl from "../../Assets/Photos/10824.jpg";
 import cbcvsstmarys from "../../Assets/Photos/102524.jpg";
 import prioryvsullivan from "../../Assets/Photos/11224_PvS-40.jpg";
+import prioryxc from "../../Assets/Photos/11924.jpg";
 
 function Projects() {
   return (
@@ -98,6 +99,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryxc}
+              isBlog={false}
+              title="State Cross Country Meet 11/9/24"
+              description="| Congrats to the Priory XC team on their season!  |"
+              ghLink="https://adobe.ly/3UKXorQ"
             />
           </Col>
           <Col md={4} className="project-card">
