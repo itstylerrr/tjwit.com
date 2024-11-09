@@ -111,20 +111,20 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={prioryvwebster2}
-              isBlog={false}
-              title="Priory vs. Webster 11/1/24"
-              description="| Hockey season has started!  |"
-              ghLink="https://adobe.ly/3AghjIt"
-            />
-          </Col>
-          <Col md={4} className="project-card">
-            <ProjectCard
               imgPath={prioryvsullivan}
               isBlog={false}
               title="Priory vs. Sullivan 11/2/24"
               description="| Priory Soccer District Quarterfinals 2024  |"
               ghLink="https://adobe.ly/48Qmhs7"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvwebster2}
+              isBlog={false}
+              title="Priory vs. Webster 11/1/24"
+              description="| Hockey season has started!  |"
+              ghLink="https://adobe.ly/3AghjIt"
             />
           </Col>
           <Col md={4} className="project-card">
