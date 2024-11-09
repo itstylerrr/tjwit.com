@@ -77,6 +77,7 @@ import prioryvwebster2 from "../../Assets/Photos/11124-3.jpg";
 import prioryvnorthwest2 from "../../Assets/Photos/11124-1.jpg"
 import prioryissl from "../../Assets/Photos/10824.jpg";
 import cbcvsstmarys from "../../Assets/Photos/102524.jpg";
+import prioryvsullivan from "../../Assets/Photos/11224_PvS-40.jpg";
 
 function Projects() {
   return (
@@ -119,11 +120,11 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={prioryvwebster2}
+              imgPath={prioryvsullivan}
               isBlog={false}
-              title="Priory vs. Webster 11/1/24"
-              description="| Hockey season has started!  |"
-              ghLink="https://adobe.ly/3AghjIt"
+              title="Priory vs. Sullivan 11/2/24"
+              description="| Priory Soccer District Quarterfinals 2024  |"
+              ghLink="https://adobe.ly/48Qmhs7"
             />
           </Col>
           <Col md={4} className="project-card">
