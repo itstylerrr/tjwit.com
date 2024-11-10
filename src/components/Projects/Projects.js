@@ -78,7 +78,7 @@ import prioryvnorthwest2 from "../../Assets/Photos/11124-1.jpg"
 import prioryissl from "../../Assets/Photos/10824.jpg";
 import cbcvsstmarys from "../../Assets/Photos/102524.jpg";
 import prioryvsullivan from "../../Assets/Photos/11224_PvS-40.jpg";
-import prioryxc from "../../Assets/Photos/11924.jpg";
+import prioryxc from "../../Assets/Photos/11924-2.jpg";
 
 function Projects() {
   return (
