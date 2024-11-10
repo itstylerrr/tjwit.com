@@ -79,6 +79,7 @@ import prioryissl from "../../Assets/Photos/10824.jpg";
 import cbcvsstmarys from "../../Assets/Photos/102524.jpg";
 import prioryvsullivan from "../../Assets/Photos/11224_PvS-40.jpg";
 import prioryxc from "../../Assets/Photos/11924-2.jpg";
+import prioryvmicds8 from "../../Assets/Photos/11824-2.jpg";
 
 function Projects() {
   return (
@@ -108,6 +109,15 @@ function Projects() {
               title="State Cross Country Meet 11/9/24"
               description="| Congrats to the Priory XC team on their season!  |"
               ghLink="https://adobe.ly/3UKXorQ"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvmicds8}
+              isBlog={false}
+              title="Priory vs. MICDS 11/8/24"
+              description="| The Ravens suffer an unfortunate loss against the Rams.  |"
+              ghLink="https://adobe.ly/3Z0tOl0"
             />
           </Col>
           <Col md={4} className="project-card">
