@@ -82,6 +82,7 @@ import prioryxc from "../../Assets/Photos/11924-2.jpg";
 import prioryvmicds8 from "../../Assets/Photos/11824-2.jpg";
 import aavssabers from "../../Assets/Photos/111624.jpg";
 import prioryvwestminster4 from "../../Assets/Photos/111824.jpg";
+import prioryvladue2 from "../../Assets/Photos/112224.jpg";
 
 function Projects() {
   return (
@@ -102,6 +103,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvladue2}
+              isBlog={false}
+              title="Priory vs. Ladue 11/22/24"
+              description="| The Ravens suffer an unfortunate loss against the #1 ranked team in the Central Division.  |"
+              ghLink="https://adobe.ly/3Z1yy8F"
             />
           </Col>
           <Col md={4} className="project-card">
