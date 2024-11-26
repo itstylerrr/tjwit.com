@@ -84,6 +84,7 @@ import aavssabers from "../../Assets/Photos/111624.jpg";
 import prioryvwestminster4 from "../../Assets/Photos/111824.jpg";
 import prioryvladue2 from "../../Assets/Photos/112224.jpg";
 import prioryvstann from "../../Assets/Photos/112424.jpg";
+import prioryvfzw from "../../Assets/Photos/112524.jpg";
 
 function Projects() {
   return (
@@ -104,6 +105,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvfzw}
+              isBlog={false}
+              title="Priory vs. Fort Zumwalt West 11/25/24"
+              description="| More than a game. #72strong  |"
+              ghLink="https://adobe.ly/3Z4Ho5z"
             />
           </Col>
           <Col md={4} className="project-card">
