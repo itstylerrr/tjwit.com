@@ -86,6 +86,7 @@ import prioryvladue2 from "../../Assets/Photos/112224.jpg";
 import prioryvstann from "../../Assets/Photos/112424.jpg";
 import prioryvfzw from "../../Assets/Photos/112524.jpg";
 import priorysnrpics from "../../Assets/Photos/12124.jpg";
+import jbmgvlf from "../../Assets/Photos/111724.jpg";
 
 function Projects() {
   return (
@@ -151,6 +152,15 @@ function Projects() {
               title="Priory vs. Westminster 11/18/24"
               description="| Big win by the Ravens!  |"
               ghLink="https://adobe.ly/4fVIecd"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={jbmgvlf}
+              isBlog={false}
+              title="JB Marine 07 Girls 11/17/24"
+              description="| Was called to come home 15 minutes into the game...  |"
+              ghLink="https://adobe.ly/3VnFAnj"
             />
           </Col>
           <Col md={4} className="project-card">
