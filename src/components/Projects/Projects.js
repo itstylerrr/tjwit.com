@@ -88,6 +88,7 @@ import prioryvfzw from "../../Assets/Photos/112524.jpg";
 import priorysnrpics from "../../Assets/Photos/12124.jpg";
 import jbmgvlf from "../../Assets/Photos/111724.jpg";
 import prioryvwhitfield2 from "../../Assets/Photos/12324.jpg";
+import prioryvwebster3 from "../../Assets/Photos/112624.jpg";
 
 function Projects() {
   return (
@@ -126,6 +127,15 @@ function Projects() {
               title="Priory Hockey Team Picture + Senior Banner Pictures 12/1/24"
               description="| Senior banner pictures + team picture.  |"
               ghLink="https://adobe.ly/3ZmZ1hf"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvwebster3}
+              isBlog={false}
+              title="Priory vs. Webster 11/26/24"
+              description="| I can't remember what the result of this game was or why I only took 186 photos.  |"
+              ghLink="https://adobe.ly/3VjddX1"
             />
           </Col>
           <Col md={4} className="project-card">
