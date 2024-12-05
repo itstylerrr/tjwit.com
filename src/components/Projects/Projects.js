@@ -87,6 +87,7 @@ import prioryvstann from "../../Assets/Photos/112424.jpg";
 import prioryvfzw from "../../Assets/Photos/112524.jpg";
 import priorysnrpics from "../../Assets/Photos/12124.jpg";
 import jbmgvlf from "../../Assets/Photos/111724.jpg";
+import prioryvwhitfield2 from "../../Assets/Photos/12324.jpg";
 
 function Projects() {
   return (
@@ -107,6 +108,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={prioryvwhitfield2}
+              isBlog={false}
+              title="Freshmen @ Whitfield 12/3/24"
+              description="| Metro league tourny.  |"
+              ghLink="https://adobe.ly/3VpRInI"
             />
           </Col>
           <Col md={4} className="project-card">
