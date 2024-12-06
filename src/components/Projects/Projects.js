@@ -89,6 +89,7 @@ import priorysnrpics from "../../Assets/Photos/12124.jpg";
 import jbmgvlf from "../../Assets/Photos/111724.jpg";
 import prioryvwhitfield2 from "../../Assets/Photos/12324.jpg";
 import prioryvwebster3 from "../../Assets/Photos/112624.jpg";
+import aavsstlsting from "../../Assets/Photos/12424.jpg";
 
 function Projects() {
   return (
@@ -109,6 +110,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={aavssabers}
+              isBlog={false}
+              title="Affton Americans vs. Saint Louis Sting 12/4/24"
+              description="| ❤️🤍💙/💜💛 |"
+              ghLink="https://adobe.ly/4g0pqIG"
             />
           </Col>
           <Col md={4} className="project-card">
