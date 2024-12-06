@@ -114,7 +114,7 @@ function Projects() {
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={aavssabers}
+              imgPath={aavsstlsting}
               isBlog={false}
               title="Affton Americans vs. Saint Louis Sting 12/4/24"
               description="| ❤️🤍💙/💜💛 |"
