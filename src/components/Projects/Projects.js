@@ -90,7 +90,7 @@ import jbmgvlf from "../../Assets/Photos/111724.jpg";
 import prioryvwhitfield2 from "../../Assets/Photos/12324.jpg";
 import prioryvwebster3 from "../../Assets/Photos/112624.jpg";
 import aavsstlsting from "../../Assets/Photos/12424.jpg";
-import aavcf from "../../Assets/Photos/12824.jpg";
+import aavcf from "../../Assets/Photos/12824-2.jpg";
 
 function Projects() {
   return (
