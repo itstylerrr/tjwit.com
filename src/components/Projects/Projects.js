@@ -90,6 +90,7 @@ import jbmgvlf from "../../Assets/Photos/111724.jpg";
 import prioryvwhitfield2 from "../../Assets/Photos/12324.jpg";
 import prioryvwebster3 from "../../Assets/Photos/112624.jpg";
 import aavsstlsting from "../../Assets/Photos/12424.jpg";
+import aavcf from "../../Assets/Photos/12824.jpg";
 
 function Projects() {
   return (
@@ -110,6 +111,15 @@ function Projects() {
               title="| Support my work! |"
               description="If you enjoy my work, you can click the button below to 'buy me a coffee!'"
               ghLink="https://www.buymeacoffee.com/tjwit"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={aavcf}
+              isBlog={false}
+              title="Affton Americans vs. Chesterfield Falcons 12/8/24"
+              description="| The Affton Americans take down the Chesterfield Falcons in a overtime thriller. |"
+              ghLink="https://adobe.ly/3ZpvDH7"
             />
           </Col>
           <Col md={4} className="project-card">
